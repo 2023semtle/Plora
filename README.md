@@ -1,4 +1,4 @@
-# planner
+# Plora
 
 Java<br>
 [@nomodik2024](https://github.com/nomodik2024)<br>
