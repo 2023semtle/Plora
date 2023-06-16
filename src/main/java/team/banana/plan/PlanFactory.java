@@ -36,4 +36,8 @@ public class PlanFactory {
     public Plan getPlan(int index){
         return plans.get(index);
     }
+
+    public List<Plan> getPlans() {
+        return plans;
+    }
 }
